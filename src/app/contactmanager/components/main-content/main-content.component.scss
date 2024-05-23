@@ -1,0 +1,35 @@
+.dashboard {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .dashboard-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  .dashboard-item {
+    flex: 1;
+    padding: 30px;
+    border: 1px solid #ccc;
+    margin-right: 20px; /* Add margin between columns */
+  }
+  
+  .dashboard-item:last-child {
+    margin-right: 0; /* Remove margin from the last item in each row */
+  }
+  
+  .dashboard-item h3 {
+    margin-top: 0;
+  }
+  
+  .product-breakdown,
+  .product-revenue {
+    margin-top: 10px;
+  }
+  
+  .product-breakdown p,
+  .product-revenue p {
+    margin: 5px 0;
+  }

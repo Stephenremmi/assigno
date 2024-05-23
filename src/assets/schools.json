@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Upperhill School",
+    "type": "Secondary",
+    "product": "Zeraki Finance",
+    "county": "Nairobi",
+    "registrationDate": "2021-01-15",
+    "contactInformation": {
+      "phone": "0123456789",
+      "email": "contact@upperhill.edu"
+    },
+    "balance": 1500,
+    "invoices": [101],
+    "collections": [201]
+  },
+  {
+    "id": 1,
+    "name": "Bellevue School",
+    "type": "Primary",
+    "product": "Zeraki Timetable",
+    "county": "Nairobi",
+    "registrationDate": "2021-01-15",
+    "contactInformation": {
+      "phone": "0193672987",
+      "email": "contact@bellevue.edu"
+    },
+    "balance": 1500,
+    "invoices": [101],
+    "collections": [201]
+  },
+  {
+    "id": 1,
+    "name": "Brookhurst School",
+    "type": "Primary",
+    "product": "Zeraki Analytics",
+    "county": "Nairobi",
+    "registrationDate": "2021-01-15",
+    "contactInformation": {
+      "phone": "0193656329",
+      "email": "contact@brookhurst.edu"
+    },
+    "balance": 1500,
+    "invoices": [101],
+    "collections": [201]
+  }
+]

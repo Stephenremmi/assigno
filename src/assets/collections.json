@@ -1,0 +1,29 @@
+[
+    {
+      "id": 201,
+      "invoiceNumber": "INV-001",
+      "collectionNumber": "COL-001",
+      "date": "2024-05-01",
+      "status": "Valid",
+      "amount": 1500,
+      "schoolId": 1
+    },
+    {
+        "id": 202,
+        "invoiceNumber": "INV-002",
+        "collectionNumber": "COL-002",
+        "date": "2024-05-20",
+        "status": "Valid",
+        "amount": 2000,
+        "schoolId": 2
+      },
+      {
+        "id": 202,
+        "invoiceNumber": "INV-003",
+        "collectionNumber": "COL-003",
+        "date": "2024-05-22",
+        "status": "Valid",
+        "amount": 2000,
+        "schoolId": 2
+      }
+  ]
